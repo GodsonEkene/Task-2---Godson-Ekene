@@ -9,7 +9,6 @@ The analysis focused on identifying whether the decline was caused by:
 - weak customer acquisition,
 - or reduced customer retention.
 
----
 
 ## Tools Used
 - Microsoft Excel
@@ -17,7 +16,6 @@ The analysis focused on identifying whether the decline was caused by:
 - Descriptive Statistics
 - Trend Analysis
 
----
 
 ## Dataset Features
 The dataset included:
@@ -36,7 +34,6 @@ The dataset included:
 - ReferralSource
 - TotalPrice
 
----
 
 ## Key Findings
 
@@ -49,7 +46,6 @@ The dataset included:
 
 Revenue declined significantly in 2025.
 
----
 
 ### Customer Count Decline
 | Year | Customers |
@@ -60,7 +56,6 @@ Revenue declined significantly in 2025.
 
 Customer decline was identified as the major contributor to the revenue drop.
 
----
 
 ### Major Insights
 - Customer purchasing behavior remained relatively stable.
@@ -69,7 +64,6 @@ Customer decline was identified as the major contributor to the revenue drop.
 - Coupon participation declined in 2025.
 - The decline was driven primarily by reduced customer participation rather than operational inefficiencies.
 
----
 
 ## Root Cause Conclusion
 The analysis revealed that the sharp decline in 2025 revenue was primarily caused by a significant reduction in active customers across the business.
@@ -85,9 +79,6 @@ Despite the revenue decline, existing customers continued purchasing at relative
 - Investigate weak-performing product categories
 - Continuously monitor business performance
 
-
-## Tools Used
-Godson Ekene
 
 **Godson Ekene**  
 Data Analyst | Sales, Marketing & Customer Analytics
