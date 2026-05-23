@@ -53,7 +53,7 @@ Revenue declined significantly in 2025.
 Customer decline was identified as the major contributor to the revenue drop.
 
 ### Major Insights
-- Customer purchasing behavior remained relatively stable.
+- Customer purchasing behavior showed a moderate decline in 2025
 - Product demand declined across most categories in 2025.
 - Referral channels experienced lower engagement in 2025.
 - Coupon participation declined in 2025.
@@ -61,8 +61,6 @@ Customer decline was identified as the major contributor to the revenue drop.
 
 ## Root Cause Conclusion
 The analysis revealed that the sharp decline in 2025 revenue was primarily caused by a significant reduction in active customers across the business.
-
-Despite the revenue decline, existing customers continued purchasing at relatively stable levels, indicating that the business struggled more with customer acquisition and retention than customer spending behavior.
 
 ## Recommendations
 - Strengthen customer acquisition campaigns
