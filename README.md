@@ -1,7 +1,7 @@
 # Sales Analysis
 
 ## Project Overview
-This project investigates the sharp decline in company revenue in 2025 using descriptive, trend, and diagnostic business analysis techniques in Microsoft Excel.
+This project investigates the sharp decline in company revenue in 2025 using descriptive, trend, and diagnostic analysis techniques in Microsoft Excel.
 
 The analysis focused on identifying whether the decline was caused by:
 - poor operational performance,
@@ -9,13 +9,11 @@ The analysis focused on identifying whether the decline was caused by:
 - weak customer acquisition,
 - or reduced customer retention.
 
-
 ## Tools Used
 - Microsoft Excel
 - Pivot Tables
 - Descriptive Statistics
 - Trend Analysis
-
 
 ## Dataset Features
 The dataset included:
@@ -34,7 +32,6 @@ The dataset included:
 - ReferralSource
 - TotalPrice
 
-
 ## Key Findings
 
 ### Revenue Decline
@@ -46,7 +43,6 @@ The dataset included:
 
 Revenue declined significantly in 2025.
 
-
 ### Customer Count Decline
 | Year | Customers |
 |---|---|
@@ -56,21 +52,17 @@ Revenue declined significantly in 2025.
 
 Customer decline was identified as the major contributor to the revenue drop.
 
-
 ### Major Insights
 - Customer purchasing behavior remained relatively stable.
-- Product demand declined across most categories.
-- Referral channels experienced lower engagement.
+- Product demand declined across most categories in 2025.
+- Referral channels experienced lower engagement in 2025.
 - Coupon participation declined in 2025.
 - The decline was driven primarily by reduced customer participation rather than operational inefficiencies.
-
 
 ## Root Cause Conclusion
 The analysis revealed that the sharp decline in 2025 revenue was primarily caused by a significant reduction in active customers across the business.
 
 Despite the revenue decline, existing customers continued purchasing at relatively stable levels, indicating that the business struggled more with customer acquisition and retention than customer spending behavior.
-
----
 
 ## Recommendations
 - Strengthen customer acquisition campaigns
@@ -78,6 +70,7 @@ Despite the revenue decline, existing customers continued purchasing at relative
 - Optimize promotional campaigns
 - Investigate weak-performing product categories
 - Continuously monitor business performance
+
 
 
 **Godson Ekene**  
